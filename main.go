@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"linkparser/link"
 	"strings"
+
+	"github.com/evgenylyozin/linkparser/link"
 )
 
 var exampleHTML = `

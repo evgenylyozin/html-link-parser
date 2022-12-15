@@ -1,4 +1,4 @@
-module linkparser
+module github.com/evgenylyozin/linkparser
 
 go 1.19
 
