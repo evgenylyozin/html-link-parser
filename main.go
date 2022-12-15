@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/evgenylyozin/linkparser/link"
+	"github.com/evgenylyozin/links-parser/link"
 )
 
 var exampleHTML = `
